@@ -1,3 +1,4 @@
 Pink
 Violet
 Teal
+New colors are blue,black,brown and white.
